@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<success>true</success>
+	<total>2</total>
+	<customer>
+		<id>10001</id>
+		<name>Acme corp2</name>
+		<phone>+52-01-55-4444-3210</phone>
+		<website>www.acmecorp.com</website>
+		<status>Active</status>
+		<clientSince>2010-01-01 14:35</clientSince>
+		<contractInfo>
+			<id>444</id>
+			<contractId>ct-001-444</contractId>
+			<documentType>PDF</documentType>
+		</contractInfo>
+	</customer>
+	<customer>
+		<id>10002</id>
+		<name>Candy Store LTD</name>
+		<phone>+52-01-66-3333-3895</phone>
+		<website>www.candyworld.com</website>
+		<status>Active</status>
+		<clientSince>2011-01-01 14:35</clientSince>
+		<contractInfo>
+			<id>9998</id>
+			<contractId>ct-001-9998</contractId>
+			<documentType>DOCX</documentType>
+		</contractInfo>
+	</customer>
+</data>

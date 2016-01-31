@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response success="true">
+	<msg>This is a success message in XML format</msg>
+</response>
