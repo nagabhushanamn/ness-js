@@ -1,0 +1,139 @@
+
+Javascript
+-------------
+
+ --> scripting lang on HTML page in browser
+ +
+ --> as Server-side lang on 'Node-JS'
+ --> Mobile appln.
+ --> Command-line tools ( testing tools e.g jasmine , mocha )
+ --> To write test-case on SOAP-UI
+ 
+ ---------------------------------------
+ 
+ To Run JS , we need 'JS engine'
+ 
+ --> every browser has built-in
+ --> NodeJS
+ --> Nashorn 
+ --> Apache CouchDB
+ 
+ -----------------------------------------
+ 
+ JS lang is an impln of 'ECMAScript' spec
+ 
+ 
+ latest 6 spec : ES -6 
+ 
+ ------------------------------------------
+ 
+ JS features
+ 
+ --> functional programming lang
+ --> OO lang
+ --> dynamic data-types
+ --> it supports 'closure'
+ --> single-threaded lang , it suports concurrency
+ --> no class
+ --> functions are objects
+ 
+ --------------------------------------------
+ 
+ where/when to use ?
+ 
+ 'Event-Driven asynchrnous func exe'
+ 
+ 
+ ---------------------------------------------
+ 
+ JS
+ 
+    --> NO class , it suports OO concepts
+    
+ ----------------------------------------------
+ 
+ 
+ 
+ 
+ 
+  JS - data structures / Data -Types / variables   
+ 
+ 
+ a. simple/primitive types
+ 
+    string
+    number
+    boolean
+    null
+    undefined
+ 
+ b. reference/object types
+ 
+ 
+ 
+ -----------------------------------
+ 
+ wat JS can do on HTML pages ?
+ 
+ --> can create/update/retrive/delete HTML elemnts
+ --> can change element's style
+ --> can change elemnt's attribute values
+ --> can change element's text contemt
+ 
+ --> can communicate with server asyc, update result ( AJAX )
+ --> can bring all HTML-5 API functionality.
+ 
+ --> can create rich UI components/widgets.
+ 
+ --> etc...
+ 
+ ------------------------------------------
+ 
+ 
+ 
+ JS using WEB-APIs ( DOM , XHR . Timer . etc  ) 
+ can bring anything to HTML page
+ 
+ -------------------------------------------
+ 
+ 
+ Plain script - Limitations
+ 
+ 
+ --> browser compatibility.
+ --> heavy codeeven simple operations
+ --> performance
+ --> memory issues
+ 
+ --> code oraganization is difficult
+ 
+ --> creating complex UI comp is difiicult.
+ 
+ ----------------------------------------
+ 
+ 
+ soln : JS libraries and Frameworks / Toolkits
+ 
+ 
+ library : jQuery
+ 
+ F.Ws  ( MVC , MVVM )
+ 
+ --> backbone
+ --> angular
+ --> ember
+ --> knockout
+ --> YUI
+ 
+ --> EXT JS
+ --> DOJO
+ 
+ ----------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
